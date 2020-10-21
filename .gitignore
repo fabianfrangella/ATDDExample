@@ -1,4 +1,11 @@
-*./idea
+.classpath
+.settings
+.project
+/target
+/data/*
+.gradle/
+build/*
+.idea
 
 # Compiled class file
 *.class
